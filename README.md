@@ -18,4 +18,4 @@ or follow these steps:
 
 ## More Info
 For more info visit https://www.wix.com/velo/reference/wix-secrets-backend-v2
-*/
+
