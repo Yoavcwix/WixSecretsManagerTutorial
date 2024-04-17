@@ -9,7 +9,7 @@ The tutorial contains code in two files:
 - BACKEND/GETDATA.WEB.JS - securely retrieves a key stored in the Secrets Manager and applies it to the third party API URL as an authentification key.
 
 ## Setup
-To set up this tutorial, watch the video tutoral here: https://www.youtube.com/watch?v=93E7Ei5gPNM 
+To use this code on your Wix Studio website, watch the video tutoral here: https://www.youtube.com/watch?v=93E7Ei5gPNM 
 or follow these steps:
 1. Create an API key on the 3rd party API of your choice.
 2. Store the API key in the Secrets Manager.
